@@ -45,11 +45,9 @@ node_modules
 .env.local
 .env.*.local
 notes.txt
-metada.json
-guideSecret-dev.json
-guideSecret-main.json
-id-dev.json
-id-main.json
+metada*.json
+token-*.json
+account-*.json
 env.json
 
 # Log files
